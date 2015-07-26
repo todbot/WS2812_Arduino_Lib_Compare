@@ -1,7 +1,8 @@
+// On Arduino 1.6.5
 // Arduino Uno : 3516 bytes ROM,  72 bytes global RAM
 // ATtiny85    : 4198 bytes ROM,  72 bytes global RAM
 
-
+// from: https://github.com/FastLED/FastLED/tree/FastLED3.1
 #include <FastLED.h>
 
 #define NUM_LEDS  1
